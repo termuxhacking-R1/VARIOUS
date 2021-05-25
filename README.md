@@ -4,13 +4,10 @@
 <b><c>Warning</b>: <font color="red">Encrypted script. Password required</c></font>
 
 ## Screenshot
-![Screenshot](https://i.postimg.cc/bppjyCLs/Screenshot-20200428-003046-Termux.jpg)
-![Screenshot](https://i.postimg.cc/jxHkBTpv/Screenshot-20200428-003433-Termux.jpg) 
-![Screenshot](https://i.postimg.cc/5bRp7jHb/Screenshot-20200428-003457-Termux.jpg) 
-![Screenshot](https://i.postimg.cc/GdVJPNNp/Screenshot-20200428-003542-Termux.jpg) 
-![Screenshot](https://i.postimg.cc/vGXnqN29/Screenshot-20200428-003827-Termux.jpg) 
-![Screenshot](https://i.postimg.cc/gdwKwmS7/Screenshot-20200428-003700-Termux.jpg) 
-![Screenshot](https://i.postimg.cc/vbrf9BW0/Screenshot-20200428-003433-Termux.jpg) 
+[![1.png](https://i.postimg.cc/k5ndJWMf/1.png)](https://postimg.cc/zyPQpbgg)<br>
+[![2.png](https://i.postimg.cc/Y90KgkWF/2.png)](https://postimg.cc/PLgRsgKf)<br>
+[![3.png](https://i.postimg.cc/y6JWCCbW/3.png)](https://postimg.cc/4ngXpqZT)<br>
+[![4.png](https://i.postimg.cc/vZymngH6/4.png)](https://postimg.cc/SJZqFK9y)
 
 ## Installation
 
