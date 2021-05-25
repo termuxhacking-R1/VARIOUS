@@ -12,7 +12,7 @@
 ## Installation
 
 ```
-git clone https://github.com/termuxhacking-R1/VARIOUS.git
+git clone https://github.com/termuxhacking-R1/VARIOUS
 
 cd VARIOUS
 
